@@ -59,7 +59,7 @@ com.book.address
 ### 🧪 Clone and Build
 
 ```bash
-git clone https://github.com/yourusername/address-book-api.git
+git clone https://github.com/Rajveer98singh/contactbook
 cd address-book-api
 mvn clean install
 ```
