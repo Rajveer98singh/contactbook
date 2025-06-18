@@ -60,7 +60,7 @@ com.book.address
 
 ```bash
 git clone https://github.com/Rajveer98singh/contactbook
-cd address-book-api
+cd contactbook
 mvn clean install
 ```
 
